@@ -1,0 +1,5 @@
+* [1. newBie]()
+   * [1.1 立项](plan/startup.md)
+   * [1.2 启动]()
+      * [1.2.1 Kickoff](plan/kickoff.md)
+* [2. catchUp](catchup/README.md)
